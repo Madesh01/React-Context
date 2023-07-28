@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(2, 50, 105);
+    padding: 0;
+}
+nav >h1{
+    font-size: 25px;
+    color: white;
+    font: weight 300px;
+    margin-right: 300px;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30px;
+}
+nav ul a{
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+}
